@@ -1,0 +1,7 @@
+*.jpg
+*.png
+*.pyc
+*.db
+/blog
+/emoji
+__pycache__
